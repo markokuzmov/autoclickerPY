@@ -1,0 +1,1 @@
+This is an autoclicker I built using Tkinter in Python
